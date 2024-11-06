@@ -1,0 +1,4 @@
+Model,Train_MAE,Train_MAPE (%),Train_R2,Test_MAE,Test_MAPE (%),Test_R2
+Linear Regression,0.15,35.37,0.0,0.02,36.05,0.09
+Random Forest,0.17,52.1,0.03,0.06,59.78,-826.88
+XGBoost,0.17,56.99,-0.0,0.05,56.68,-2.06
